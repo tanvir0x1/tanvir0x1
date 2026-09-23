@@ -21,13 +21,26 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"
        alt="LinkedIn" />
 </a>
-- ✉️ Let's connect: [tanvir.hossain7492@gmail.com](mailto:tanvir.hossain7492@gmail.com)
-### Languages and tools:
+
+<h3>Get in touch</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,git,github,docker,linux,html,css,js,react&perline=12"
-       alt="Languages and tools" />
+  ✉️ Have a question or want to collaborate?
+  <a href="mailto:tanvir.hossain7492@gmail.com">Send me an email</a>.
 </p>
+
+
+
+<h3>Languages and Tools:</h3>
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,mongodb,express,react,nodejs,pytorch,tensorflow,sklearn,git,github,docker,linux&perline=9"
+    alt="C, C++, C#, Python, JavaScript, HTML, CSS, MongoDB, Express, React, Node.js, PyTorch, TensorFlow, scikit-learn, Git, GitHub, Docker, and Linux"
+  />
+</p>
+
+<p>🧠 Also working with LLMs and RAG applications.</p>
 
 ### GitHub streak:
 
