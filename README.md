@@ -9,7 +9,7 @@
        alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working on **machine learning and cybersecurity**
+- 🔭 I’m currently working on **machine learning and web application.**
 - 🌱 I’m currently learning **LLMs and retrieval-augmented generation**
 - 👨‍💻 My projects are available at **https://tanvir0x1-github-io.vercel.app**
 - 💬 Ask me about **AI/ML and Python**
