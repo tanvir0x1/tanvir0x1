@@ -1,50 +1,50 @@
-<h1 align="center">Hi 👋, I'm Md.Obaidul</h1>
+<div align="center">
 
-<h3 align="center">
-  A computer science researcher who loves to build and learn
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B+I%27m+Md.+Obaidul+Amin;I+build+with+AI%2C+code%2C+and+curiosity;Exploring+LLMs+%26+RAG+%F0%9F%A7%A0" alt="Typing animation introducing Md. Obaidul Amin" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tanvir0x1&label=Profile%20views&color=blue&style=flat"
-       alt="Profile views" />
-</p>
+### Computer science researcher · AI/ML explorer · Web builder
 
-- 🔭 I’m currently working on **machine learning and web application.**
-- 🌱 I’m currently learning **LLMs and retrieval-augmented generation**
-- 👨‍💻 My projects are available at **https://tanvir0x1-github-io.vercel.app**
-- 💬 Ask me about **AI/ML and Python**
-- 📫 Reach me at **tanvir.hossain7492@gmail.com**
+*Turning curious questions into useful experiments and applications.*
 
-### Connect with me:
+<a href="https://tanvir0x1-github-io.vercel.app"><img src="https://img.shields.io/badge/Explore_my_projects-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/md-obaidul-amin-1329772b7/"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:tanvir.hossain7492@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<a href="www.linkedin.com/in/md-obaidul-amin-1329772b7">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"
-       alt="LinkedIn" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=tanvir0x1&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views" />
 
-<h3>Get in touch</h3>
+</div>
 
-<p>
-  ✉️ Have a question or want to collaborate?
-  <a href="mailto:tanvir.hossain7492@gmail.com">Send me an email</a>.
-</p>
+---
 
+### 🧭 What I'm building
 
+```text
+current_focus  →  machine learning + web applications
+learning       →  large language models + retrieval-augmented generation
+ask_me_about   →  AI/ML + Python
+motivation     →  build something useful, learn something new, repeat
+```
 
-<h3>Languages and Tools:</h3>
+### 🧰 My toolkit
 
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,mongodb,express,react,nodejs,pytorch,tensorflow,sklearn,git,github,docker,linux&perline=9"
-    alt="C, C++, C#, Python, JavaScript, HTML, CSS, MongoDB, Express, React, Node.js, PyTorch, TensorFlow, scikit-learn, Git, GitHub, Docker, and Linux"
-  />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,mongodb,express,react,nodejs,pytorch,tensorflow,sklearn,git,github,docker,linux&perline=9" alt="C, C++, C#, Python, JavaScript, HTML, CSS, MongoDB, Express, React, Node.js, PyTorch, TensorFlow, scikit-learn, Git, GitHub, Docker, and Linux" />
+</div>
 
-<p>🧠 Also working with LLMs and RAG applications.</p>
+<br />
 
-### GitHub streak:
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=tanvir0x1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark"
-       alt="GitHub contribution streak" />
-</p>
+---
+
+<div align="center">
+
+### 💬 Let's make something interesting
+
+Have a project idea, research question, or collaboration in mind? [Send me an email](mailto:tanvir.hossain7492@gmail.com).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0A66C2&height=100&section=footer" alt="Decorative animated wave" />
+
+</div>
