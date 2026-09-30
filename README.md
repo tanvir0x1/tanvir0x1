@@ -34,7 +34,7 @@ motivation     →  build something useful, learn something new, repeat
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanvir0x1&theme=tokyonight&hide_border=true&hide_total_contributions=true" alt="GitHub current and longest contribution streaks" />
+  <img src="https://streak-stats.demolab.com/?user=tanvir0x1&theme=tokyonight&hide_border=true&timezone=Asia%2FDhaka" alt="GitHub total contributions, current streak, and longest streak" />
 </div>
 
 ---
