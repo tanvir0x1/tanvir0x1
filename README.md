@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B+I%27m+Md.+Obaidul+Amin;I+build+with+AI%2C+code%2C+and+curiosity;Exploring+LLMs+%26+RAG+%F0%9F%A7%A0" alt="Typing animation introducing Md. Obaidul Amin" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B+I%27m+Md.+Obaidul+Amin;I+build+with+AI%2C+code%2C+and+curiosity;Exploring+LLMs+%26+RAG+%F0%9F%A7%A0" alt="Animated introduction: Hi, I'm Md. Obaidul Amin" />
 
 ### Computer science researcher · AI/ML explorer · Web builder
 
@@ -34,7 +34,7 @@ motivation     →  build something useful, learn something new, repeat
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanvir0x1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=tanvir0x1&theme=tokyonight&hide_border=true&hide_total_contributions=true" alt="GitHub current and longest contribution streaks" />
 </div>
 
 ---
@@ -45,6 +45,6 @@ motivation     →  build something useful, learn something new, repeat
 
 Have a project idea, research question, or collaboration in mind? [Send me an email](mailto:tanvir.hossain7492@gmail.com).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0A66C2&height=100&section=footer" alt="Decorative animated wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0A66C2&height=100&section=footer" alt="Decorative wave" />
 
 </div>
