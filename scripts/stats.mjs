@@ -1,6 +1,6 @@
 // Builds dist/stats.svg from the public contribution calendar.  Run: node scripts/stats.mjs <user>
 // It counts exactly what a visitor sees, so private work is included once
-// "Private contributions" is switched on in the profile's Contribution settings.
+// "Include private contributions on my profile" is switched on in GitHub settings.
 import { writeFileSync, mkdirSync } from "node:fs";
 import { C, fontCss } from "./theme.mjs";
 
