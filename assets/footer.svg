@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" aria-hidden="true">
+<style>.w1{animation:w 11s linear infinite}.w2{animation:w 17s linear infinite reverse}.w3{animation:w 8s linear infinite}@keyframes w{to{transform:translateX(450px)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<clipPath id="r"><path d="M0 0H900V102A18 18 0 0 1 882 120H18A18 18 0 0 1 0 102Z"/></clipPath>
+<g clip-path="url(#r)"><path class="w2" d="M-900 52q112.5 -34 225 0t225 0t225 0t225 0t225 0t225 0t225 0t225 0t225 0V130H-900Z" fill="#36BCF7" opacity=".25"/><path class="w1" d="M-900 66q112.5 -30 225 0t225 0t225 0t225 0t225 0t225 0t225 0t225 0t225 0V130H-900Z" fill="#0A66C2" opacity=".6"/><path class="w3" d="M-900 84q112.5 -22 225 0t225 0t225 0t225 0t225 0t225 0t225 0t225 0t225 0V130H-900Z" fill="#0A3B66"/></g></svg>

@@ -1,63 +1,168 @@
-<!-- ===== Animated header banner ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:0A66C2,100:36BCF7&height=230&section=header&text=Md.%20Obaidul%20Amin&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Computer%20Science%20Researcher%20%C2%B7%20Web%20Builder&descSize=18&descAlignY=56" width="100%" alt="Md. Obaidul Amin — Computer Science Researcher and Web Builder" />
-
 <div align="center">
 
-<!-- ===== Typing animation ===== -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Hi+%F0%9F%91%8B+welcome+to+my+corner+of+GitHub;I+turn+curiosity+into+working+code+%E2%9A%A1;Researching+LLMs+%26+RAG+systems+%F0%9F%A7%A0;Shipping+fast%2C+clean+web+apps+%F0%9F%9A%80" alt="Typing animation: I turn curiosity into working code" />
+<img src="assets/hero.svg" width="100%" alt="Md. Obaidul Amin: LLM and RAG researcher, Godot 4 game developer, full-stack web builder, Android app developer" />
 
-*Turning curious questions into useful experiments and applications.*
+<br />
 
-<a href="https://tanvir0x1-github-io.vercel.app"><img src="https://img.shields.io/badge/Explore_my_projects-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/md-obaidul-amin-1329772b7/"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:tanvir.hossain7492@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=tanvir0x1&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views" />
+<a href="https://tanvir0x1-github-io.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1C2F4A?style=for-the-badge&logo=vercel&logoColor=36BCF7" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/md-obaidul-amin-1329772b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:tanvir.hossain7492@gmail.com"><img src="https://img.shields.io/badge/Email-1C2F4A?style=for-the-badge&logo=gmail&logoColor=FFB454" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=tanvir0x1&label=Profile+views&color=0A66C2&style=for-the-badge" alt="Profile views" />
 
 </div>
 
----
-
-### 🧭 What I'm building
+### What I'm working on
 
 ```text
-current_focus  →  machine learning + web applications
-researching    →  large language models + retrieval-augmented generation
-ask_me_about   →  ML + Python + full-stack web
-motivation     →  build something useful, learn something new, repeat
+building     →  Aether Clash, an online 3D arena game in Godot 4
+shipping     →  four Android apps, on their way to Google Play
+researching  →  retrieval-augmented generation + LLM re-ranking for rare disease diagnosis
+ask me about →  Python + ML, full-stack web, three.js, Godot, Flutter
 ```
 
-### 🧰 My toolkit
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,mongodb,express,react,nodejs,pytorch,tensorflow,sklearn,git,github,docker,linux&perline=9&theme=dark" alt="C, C++, C#, Python, JavaScript, HTML, CSS, MongoDB, Express, React, Node.js, PyTorch, TensorFlow, scikit-learn, Git, GitHub, Docker, and Linux" />
-</div>
+### Latest build
 
-<br />
+<img src="assets/aether-clash.svg" width="100%" alt="Aether Clash, an online 3D arena for up to 8 players, built in Godot 4.7" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanvir0x1&theme=tokyonight&hide_border=true&timezone=Asia%2FDhaka" alt="GitHub total contributions, current streak, and longest streak" />
-</div>
+An online battle arena where everyone picks an element, takes flight over a sunset mountain arena and fights.
 
-<br />
+- **Multiplayer:** up to 8 players over ENet, with player-hosted matches and a dedicated server
+- **Combat:** five elements, each with a basic attack and a special, plus power orbs, dashes, sword strikes and free flight
+- **Look:** custom sky, terrain and effect shaders, power trails, four animated Mixamo characters
+- **Delivery:** exported to a single Windows `.exe`
 
-<!-- ===== Snake eating the contribution graph (needs the workflow below) ===== -->
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎮 Game development**<br />
+<sub>Godot 4, GDScript, C#, three.js, WebGL2</sub>
+
+- Online 3D arena in **Godot 4.7** with ENet networking, shaders and Mixamo animation
+- [Nitro Vendetta](https://road-rash-seven.vercel.app/), a 3D bike combat racer with 4-player online races
+- [Emberwing](https://emberwing-ruddy.vercel.app/), a voxel dragon adventure with ten guardian bosses
+- [Salvo](https://salvo-silk.vercel.app/), a 5 vs 5 arena shooter in WebGL2
+- [Shadow Path](https://shadow-path-ninja.vercel.app/), [Cube IQ](https://mindmaze-tau.vercel.app/) and [Pip's Quest](https://pip-quest-web.vercel.app/) ([C# source](https://github.com/tanvir0x1/pip-quest))
+
+</td>
+<td width="50%" valign="top">
+
+**📱 Android apps**<br />
+<sub>Flutter, Dart, Kotlin, Capacitor, Gradle</sub>
+
+- **Neon Puzzle Box:** 15 offline puzzle games with a boss every 50 levels
+- **Pandaberry:** triple tile-matching with 2,000 levels
+- **WiFi FTP Transfer:** phone to PC file copying, native Kotlin
+- **Cosmos for Android:** an offline 3D universe explorer
+- Release work too: signing, store listings, privacy policies
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌐 Full-stack and 3D web**<br />
+<sub>Next.js, React, TypeScript, Node, Express, Prisma</sub>
+
+- [Cosmos](https://cosmos-silk-one.vercel.app/), the universe at true scale with 9,110 real stars
+- [Caseform](https://caseform-preview.vercel.app/), a 3D storefront lit by a hand-written shader
+- [Rostrum](https://rostrum-pearl.vercel.app/), a photo motion studio with 48 effects, sign-in and Stripe integration
+- **Wajood** and **Aloka**, complete shops with cash on delivery, order tracking and admin panels
+- [Flipspin](https://flipspin.vercel.app/), an illusion maker that exports video, and portfolio sites for clients
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 AI and ML research**<br />
+<sub>PyTorch, Transformers, LangChain, LangGraph, ChromaDB</sub>
+
+- [Rare disease diagnosis with RAG](https://github.com/tanvir0x1/rare-disease-eval): MedGemma 27B re-ranking raised Recall@5 from 0.480 to 0.811 on 513 external cases where retrieval had found the disease
+- **Federated self-supervised learning** for chest X-rays, across five simulated hospitals
+- **Continual learning** for brain tumour MRI with a Swin Transformer
+- **Hybrid quantum-classical** tumour classification
+- A multi-LLM medical chatbot built with LangGraph
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### Toolkit
+
+<table>
+<tr>
+<td><b>Games and 3D</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=godot,cs,dotnet,threejs&theme=dark" height="40" alt="Godot, C#, .NET, three.js" /><br />
+<sub>Godot 4 · GDScript · GLSL and Godot shaders · ENet · WebGL2 · React Three Fiber · Raylib · Mixamo</sub>
+</td>
+</tr>
+<tr>
+<td><b>Mobile</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,gradle&theme=dark" height="40" alt="Flutter, Dart, Kotlin, Gradle" /><br />
+<sub>Capacitor · Android SDK · Google Play release prep</sub>
+</td>
+</tr>
+<tr>
+<td><b>Web</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,vite,html,css&theme=dark" height="40" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Tailwind CSS, Vite, HTML, CSS" /><br />
+<sub>Framer Motion · Zod · NextAuth · Stripe</sub>
+</td>
+</tr>
+<tr>
+<td><b>AI and ML</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&theme=dark" height="40" alt="Python, PyTorch, TensorFlow, scikit-learn" /><br />
+<sub>Hugging Face Transformers · LangChain · LangGraph · ChromaDB · BM25 · Gradio</sub>
+</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,prisma&theme=dark" height="40" alt="MongoDB, PostgreSQL, SQLite, Prisma" /><br />
+<sub>Power BI</sub>
+</td>
+</tr>
+<tr>
+<td><b>Languages and tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,docker,linux,vercel&theme=dark" height="40" alt="C, C++, Java, Git, GitHub, Docker, Linux, Vercel" />
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### Contributions
+
+<!-- Rebuilt every 6 hours by .github/workflows/profile.yml -->
+<img src="https://raw.githubusercontent.com/tanvir0x1/tanvir0x1/output/stats.svg" width="100%" alt="Total contributions, last 365 days, current streak and longest streak" />
+
+<br /><br />
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvir0x1/tanvir0x1/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvir0x1/tanvir0x1/output/github-snake.svg" />
     <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/tanvir0x1/tanvir0x1/output/github-snake.svg" />
   </picture>
-</div>
 
----
+<br />
 
-<div align="center">
+### Let's make something interesting
 
-### 💬 Let's make something interesting
-
-Have a project idea, research question, or collaboration in mind? [Send me an email](mailto:tanvir.hossain7492@gmail.com).
+I'm open to full-stack, Android and game projects, research collaborations and graduate study.<br />
+[Send me an email](mailto:tanvir.hossain7492@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:0A66C2,100:0F2027&height=120&section=footer" width="100%" alt="Decorative wave" />
+<img src="assets/footer.svg" width="100%" alt="" />

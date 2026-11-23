@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 14" aria-hidden="true">
+<defs><linearGradient id="l"><stop stop-color="#36BCF7" stop-opacity="0"/><stop offset=".5" stop-color="#36BCF7"/><stop offset="1" stop-color="#36BCF7" stop-opacity="0"/></linearGradient></defs>
+<style>.s{animation:s 5s ease-in-out infinite}@keyframes s{0%{transform:translateX(-240px)}100%{transform:translateX(900px)}}@media (prefers-reduced-motion:reduce){.s{animation:none;transform:translateX(330px)}}</style>
+<rect y="6.5" width="900" height="1" fill="#7D8FA8" opacity=".3"/><rect class="s" y="6" width="240" height="2" rx="1" fill="url(#l)"/></svg>
