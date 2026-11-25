@@ -14,7 +14,7 @@
 ### What I'm working on
 
 ```text
-building     →  Aether Clash, an online 3D arena game in Godot 4
+building     →  The Bell That Kept Supper and Aether Clash, two games in Godot 4
 shipping     →  four Android apps, on their way to Google Play
 researching  →  retrieval-augmented generation + LLM re-ranking for rare disease diagnosis
 ask me about →  Python + ML, full-stack web, three.js, Godot, Flutter
@@ -22,16 +22,35 @@ ask me about →  Python + ML, full-stack web, three.js, Godot, Flutter
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-### Latest build
+### Latest builds
+
+<a href="https://tanvir0x1-github-io.vercel.app/project.html?p=the-bell-that-kept-supper"><img src="assets/bell.webp" width="100%" alt="The Bell That Kept Supper, a 2D puzzle platformer built in Godot 4.7" /></a>
+
+**[The Bell That Kept Supper](https://tanvir0x1-github-io.vercel.app/project.html?p=the-bell-that-kept-supper)**, a co-op game for one. Ring a bell, live ten seconds, ring again: now there are two of you. [Watch the trailer](https://tanvir0x1-github-io.vercel.app/project.html?p=the-bell-that-kept-supper). Source: [TheBellThatKeptSupper](https://github.com/tanvir0x1/TheBellThatKeptSupper) (private for now).
+
+- **Puzzles:** 39 rooms in seven chapters, built on cooperating with a bronze echo of your own last ten seconds
+- **Made in code:** every picture is drawn by the game and every sound is synthesised, with shaders for fog, water, terrain and light
+- **Tested by bots:** a bot plays all 39 rooms, and a random player tries to break them
+- **Delivery:** Windows builds of the game and a nine-room demo, with keyboard and controller support
+
+<a href="https://tanvir0x1-github-io.vercel.app/project.html?p=the-bell-that-kept-supper"><img src="assets/bell-1.webp" width="32%" alt="The Bell That Kept Supper, screenshot 1" />
+<img src="assets/bell-2.webp" width="32%" alt="The Bell That Kept Supper, screenshot 2" />
+<img src="assets/bell-3.webp" width="32%" alt="The Bell That Kept Supper, screenshot 3" /></a>
+
+<br />
 
 <img src="assets/aether-clash.svg" width="100%" alt="Aether Clash, an online 3D arena for up to 8 players, built in Godot 4.7" />
 
-An online battle arena where everyone picks an element, takes flight over a sunset mountain arena and fights.
+**[Aether Clash](https://tanvir0x1-github-io.vercel.app/project.html?p=aether-clash)**, an online battle arena where everyone picks an element, takes flight over a sunset mountain arena and fights. [Watch the video](https://tanvir0x1-github-io.vercel.app/project.html?p=aether-clash).
 
 - **Multiplayer:** up to 8 players over ENet, with player-hosted matches and a dedicated server
 - **Combat:** five elements, each with a basic attack and a special, plus power orbs, dashes, sword strikes and free flight
 - **Look:** custom sky, terrain and effect shaders, power trails, four animated Mixamo characters
 - **Delivery:** exported to a single Windows `.exe`
+
+<a href="https://tanvir0x1-github-io.vercel.app/project.html?p=aether-clash"><img src="assets/aether-1.webp" width="32%" alt="Aether Clash, screenshot 1" />
+<img src="assets/aether-2.webp" width="32%" alt="Aether Clash, screenshot 2" />
+<img src="assets/aether-3.webp" width="32%" alt="Aether Clash, screenshot 3" /></a>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -44,7 +63,8 @@ An online battle arena where everyone picks an element, takes flight over a suns
 **🎮 Game development**<br />
 <sub>Godot 4, GDScript, C#, three.js, WebGL2</sub>
 
-- Online 3D arena in **Godot 4.7** with ENet networking, shaders and Mixamo animation
+- [The Bell That Kept Supper](https://tanvir0x1-github-io.vercel.app/project.html?p=the-bell-that-kept-supper), a 39-room puzzle platformer in **Godot 4.7**, with code-drawn art and synthesised sound
+- [Aether Clash](https://tanvir0x1-github-io.vercel.app/project.html?p=aether-clash), an online 3D arena in **Godot 4.7** with ENet networking, shaders and Mixamo animation
 - [Nitro Vendetta](https://road-rash-seven.vercel.app/), a 3D bike combat racer with 4-player online races
 - [Emberwing](https://emberwing-ruddy.vercel.app/), a voxel dragon adventure with ten guardian bosses
 - [Salvo](https://salvo-silk.vercel.app/), a 5 vs 5 arena shooter in WebGL2
